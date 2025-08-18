@@ -21,10 +21,7 @@ author: Ayub Amini
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  
+  Posts: "posts"
 
 ################
 # --- Logo --- #
@@ -39,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/4.png
+title-img: "/assets/img/4.png"
 
 
 #####################################
@@ -52,14 +49,14 @@ title-img: /assets/img/4.png
 social-network-links:
   email: "a.amini5404@gmail.com"
   # facebook: deanattali
-  github: jobe1366
+  github: "jobe1366"
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: Ayub Amini
+  linkedin: "Ayub Amini"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
