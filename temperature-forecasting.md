@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Deep learning for timeseries
 subtitle: temperature-forecasting
 comments: true
