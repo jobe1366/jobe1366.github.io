@@ -31,7 +31,7 @@ comments: true
 
 #### Plotting the temperature timeseries
 
-![temperature timeseries](/assets/img/temprature-over-time.png)
+![temperature timeseries](/assets/img/temperature-over-time.png)
 
 #### Temperature over the first 30 days of the dataset (ºC)
 
