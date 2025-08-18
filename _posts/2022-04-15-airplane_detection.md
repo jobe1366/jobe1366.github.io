@@ -37,7 +37,7 @@ comments: true
 >
 > - Totall loss =  regression loss + clasification loss
  
-  ![](/img/curve.PNG)
+  ![](/assets/img/curve.PNG)
 
 
 
@@ -48,11 +48,11 @@ comments: true
 
 - Correct detection for all airplanes 
  
-   ![](/img/output-1.PNG)
+   ![](/assets/img/output-1.PNG)
 
 
       
 - Detection of airplanes along with some error in detection
  
-   ![](/img/output-2.PNG)
+   ![](/assets/img/output-2.PNG)
 
