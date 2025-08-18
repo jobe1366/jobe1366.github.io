@@ -31,11 +31,11 @@ comments: true
 
 #### Plotting the temperature timeseries
 
-![temperature timeseries](/img/LSTM_model-summary.png)
+![temperature timeseries](/assets/img/temprature-over-time.png)
 
 #### Temperature over the first 30 days of the dataset (ºC)
 
-![Temperature over the first 30 days of the dataset (ºC)](/img/trist-30-day-temperature.png)
+![Temperature over the first 30 days of the dataset (ºC)](/assets/img/trist-30-day-temperature.png)
 
 > ### Preparing the data
 >
@@ -60,22 +60,22 @@ The weather forecasting model is built using [**PyTorch**](https://pytorch.org/)
 > - Try using a stack of Dense layers as the regressor on top of the recurrent layer,instead of a single Dense layer.
 > - Improve the input to the model: try using longer or shorter sequences or a different sampling rate, or start doing feature engineering.
 
-![Deep LSTM Network ](/img/LSTM_model-summary.png)
+
 
 ## model summary
 
-![summary](/img/LSTM_model-summary.png)
+![summary](/assets/img/LSTM_model-summary.png)
 
 
 ### Plotting Model Predictions for different training scheme 
 
-![train model 15 epochs](/img/temperature_prediction_15_epoch.png "plotting for 24 hours/15_epochs")
+![train model 15 epochs](/assets/img/temperature_prediction_15_epoch.png "plotting for 24 hours/15_epochs")
 
-![train model 35 epochs](/img/temperature_prediction_35_epoch.png "plotting for 24 hours/35_epochs")
+![train model 35 epochs](/assets/img/temperature_prediction_35_epoch.png "plotting for 24 hours/35_epochs")
 
-![train model 50 epochs](/img/temperature_prediction_50_epoch.png "plotting for 24 hours/50_epochs")
+![train model 50 epochs](/assets/img/temperature_prediction_50_epoch.png "plotting for 24 hours/50_epochs")
 
-![train model 50 epochs](/img/temperature_prediction_50_epoch_Over_Five_Day(120-h).png  "plotting for five day/50_epochs")
+![train model 50 epochs](/assets/img/temperature_prediction_50_epoch_Over_Five_Day(120-h).png  "plotting for five day/50_epochs")
 
-![train model 50 epochs](/img/temperature_prediction_two_months.png "plottiing for tow months/50_epochs")
+![train model 50 epochs](/assets/img/temperature_prediction_two_months.png "plottiing for tow months/50_epochs")
 
