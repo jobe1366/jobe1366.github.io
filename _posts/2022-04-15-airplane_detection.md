@@ -1,6 +1,6 @@
 ---
 layout: post
-title: airplane Detection
+title: Airplane Detection
 subtitle: rotated version of EfficientDet
 comments: true
 ---
@@ -33,7 +33,7 @@ comments: true
 
 
 
-> - loss curve
+> ###### loss curve
 >
 > - Totall loss =  regression loss + clasification loss
  
