@@ -13,7 +13,7 @@ I believe that mastering these tools will further strengthen my ability to devel
 
 > ### Interests
 >
-> - Machin Learnig
+> - Machine Learning
 > - Computer Vision
 > - Image Processing
 > - Communication
