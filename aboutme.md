@@ -5,7 +5,7 @@ subtitle: Who Am I ?
 ---
 
 <p style="text-align: justify;">
-I am **Ayub Amini**, a Master’s graduate from [**IUST**](https://www.iust.ac.ir/en) University, where I specialized in advanced topics related to _image processing_ and _computer vision_. My thesis focused on object detection which centered around classical digital image processing, deep computer vision, and data science and through which I gained deep expertise in analyzing and interpreting visual data.
+I am **Ayub Amini**, a Master’s graduate from [**IUST**](https://www.iust.ac.ir/en) University, where I specialized in advanced topics related to _image processing_ and _computer vision_. My thesis focused on object detection which centered around classical digital image processing, computer vision, and data science and through which I gained deep expertise in analyzing and interpreting visual data.
 
 In addition to computer vision and  machine learning , I have a valuable background in _signal processing_ and _filter design_, particularly within the field of _communications_. This unique combination allows me to integrate techniques from both domains, enhancing my ability to solve complex problems and develop innovative solutions. Currently,I am focusing on improving my programming skills in _Python_ and _C_, aiming to become a professional in these languages.
 
